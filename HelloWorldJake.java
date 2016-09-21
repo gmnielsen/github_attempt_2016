@@ -5,6 +5,4 @@ public class HelloWorldJake{
 		System.out.println("Hello World - oops, no fun");
 		System.out.println("Hello World - alice");
 	}
-	
-	
 }
